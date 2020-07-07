@@ -1,5 +1,5 @@
 # **About**
-It's often harder for a fresh CS graduate to find compnay names and their career pages where he/she can apply.
+It's often harder for a fresh CS graduate to find compnay names and their career pages where he/she can apply. So we try to accumulate Software company's career pages.
 # Software Company's Career Pages in Bangladesh
 
 ## [1. Cefalo](https://www.cefalo.com/career)
