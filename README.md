@@ -1,4 +1,7 @@
-# software-company-names
+# **About**
+It's often harder for a fresh CS graduate to find compnay names and their career pages where he/she can apply.
+# Software Company's Career Pages in Bangladesh
+
 ## [1. Cefalo](https://www.cefalo.com/career)
 ## [2. Selise](https://selise.ch/career)
 ## [3. Therap](https://therap.recruiterbox.com)
